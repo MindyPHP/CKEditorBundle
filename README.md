@@ -1,7 +1,7 @@
 # Ckeditor Bundle
 
-[![Build Status](https://travis-ci.org/MindyPHP/CkeditorBundle.svg?branch=master)](https://travis-ci.org/MindyPHP/CkeditorBundle)
-[![Coverage Status](https://img.shields.io/coveralls/MindyPHP/CkeditorBundle.svg)](https://coveralls.io/r/MindyPHP/CkeditorBundle)
+[![Build Status](https://travis-ci.org/MindyPHP/CKEditorBundle.svg?branch=master)](https://travis-ci.org/MindyPHP/CKEditorBundle)
+[![codecov](https://codecov.io/gh/MindyPHP/CKEditorBundle/branch/master/graph/badge.svg)](https://codecov.io/gh/MindyPHP/CKEditorBundle)
 [![Latest Stable Version](https://poser.pugx.org/mindy/ckeditor-bundle/v/stable.svg)](https://packagist.org/packages/mindy/ckeditor-bundle)
 [![Total Downloads](https://poser.pugx.org/mindy/ckeditor-bundle/downloads.svg)](https://packagist.org/packages/mindy/ckeditor-bundle)
 
