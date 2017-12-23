@@ -1,0 +1,7 @@
+services:
+    mindy.bundle.ckeditor.template_library.ckeditor:
+        class: Mindy\Bundle\CKEditorBundle\Library\CKEditorLibrary
+        arguments:
+            - '@ivory_ck_editor.renderer'
+        tags:
+            - { name: template.library }

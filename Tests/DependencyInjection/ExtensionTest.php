@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 /*
  * This file is part of Mindy Framework.
  * (c) 2017 Maxim Falaleev
@@ -13,9 +15,10 @@ namespace Mindy\Bundle\CKEditorBundle\Tests\DependencyInjection;
 use Ivory\CKEditorBundle\DependencyInjection\IvoryCKEditorExtension;
 use Mindy\Bundle\CKEditorBundle\DependencyInjection\CKEditorExtension;
 use Mindy\Template\RendererInterface;
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 
-class ExtensionTest extends \PHPUnit_Framework_TestCase
+class ExtensionTest extends TestCase
 {
     public function testServices()
     {
